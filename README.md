@@ -1,4 +1,4 @@
-# Fragment_Of_Learning
+# Fragment_of_learning
 
 ```
 프로젝트를 통해 배운 내용들을 모아두었습니다.
